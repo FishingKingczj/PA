@@ -1,0 +1,13 @@
+Private-accesses: 3
+Remote-accesses: 11
+Off-chip-accesses: 15
+Total-accesses: 29
+Replacement-writebacks: 2
+Coherence-writebacks: 6
+Invalidations-sent: 5
+Average-latency: 23.41
+Priv-average-latency: 2.00
+Rem-average-latency: 21.64
+Off-chip-average-latency: 29.00
+On-chip-average-distance: 2.07
+Total-latency: 679
